@@ -1,4 +1,5 @@
 # Caduceus 🩺
+Part of Project MERCY (Mapping Emerging Resistance in Candida Yeasts), named after Mercy's Caduceus Staff from Overwatch.
 
 Caduceus scans the genomes of *Candida auris* (now *Candidozyma auris*), a drug-resistant fungus, and
 predicts which antifungal drugs each one is likely to resist.
