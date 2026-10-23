@@ -11,7 +11,7 @@ This is my second learning project for practicing bioinformatics, Python, and Gi
 
 - [x] Set up the environment and repo
 - [x] Download an isolate's sequencing reads and the reference genome
-- [ ] Check read quality
+- [x] Check read quality
 - [ ] Align reads and call variants
 - [ ] Annotate variants with SnpEff
 - [ ] Report likely drug resistance
