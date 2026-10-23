@@ -9,8 +9,8 @@ This is my second learning project for practicing bioinformatics, Python, and Gi
 
 🚧 Work in progress
 
-- [ ] Set up the environment and repo
-- [ ] Download an isolate's sequencing reads and the reference genome
+- [x] Set up the environment and repo
+- [x] Download an isolate's sequencing reads and the reference genome
 - [ ] Check read quality
 - [ ] Align reads and call variants
 - [ ] Annotate variants with SnpEff
