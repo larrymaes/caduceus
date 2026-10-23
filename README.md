@@ -1,6 +1,6 @@
 # Caduceus 🩺
 
-Caduceus scans the genomes of *Candida auris* (now *Candidozyma auris*), a drug-resistant fungus, and
+Caduceus scans the genomes of Candida auris, a drug-resistant fungus, and
 predicts which antifungal drugs each one is likely to resist.
 
 This is my second learning project for practicing bioinformatics, Python, and Git.
@@ -9,7 +9,7 @@ This is my second learning project for practicing bioinformatics, Python, and Gi
 
 🚧 Work in progress
 
-- [ ] Set up the environment and repo
+- [x] Set up the environment and repo
 - [ ] Download an isolate's sequencing reads and the reference genome
 - [ ] Check read quality
 - [ ] Align reads and call variants
